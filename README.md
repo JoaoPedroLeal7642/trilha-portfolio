@@ -23,3 +23,18 @@ Uma equipe de loja precisa conciliar a integração de novos vendedores e a prep
 O protótipo usa C#, ASP.NET Core Razor Pages, SQLite e dados em CSV. As verificações automatizadas cobrem a importação dos dados, a elegibilidade dos perfis e regras de recomendação e agendamento.
 
 O protótipo demonstra o fluxo até a confirmação no aplicativo. O histórico exibido na interface vem da base fictícia usada na demonstração.
+
+
+## Demonstração
+
+### Visão do gerente
+
+![Sugestões de treinamento](imagens/sugestoes-gerente.png)
+
+### Perfil do vendedor
+
+![Perfil com justificativa da recomendação](imagens/perfil-vendedor.png)
+
+### Programação confirmada
+
+![Treinamentos confirmados no perfil](imagens/programacao-confirmada.png)
